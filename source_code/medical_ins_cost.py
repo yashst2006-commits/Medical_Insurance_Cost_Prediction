@@ -65,5 +65,5 @@ plt.plot(
 plt.xlabel("Actual Insurance Cost")
 plt.ylabel("Predicted Insurance Cost")
 plt.title("Final Model (Ridge): Actual vs Predicted")
-plt.show()
 plt.savefig("Medical_Insurance_Cost_Prediction/images/Ridge_Reg_Graph.png")
+plt.show()
